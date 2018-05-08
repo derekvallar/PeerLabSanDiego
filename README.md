@@ -1,4 +1,4 @@
-# peerlab.community/SanDiego
+# Peer Lab Community: San Diego
 
 The [Peer Lab Community](https://peerlab.community/) was created to help developers find collaborative working spaces around the world. If you're hoping to grind down on some coding projects or looking for help with some development questions then feel free to stop by for an hour or two. Developers of any experience/coding languages are welcome!
 
