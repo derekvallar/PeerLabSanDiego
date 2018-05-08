@@ -1,11 +1,11 @@
 # peerlab.community/SanDiego
 
-The [**Peer Lab Community**](https://peerlab.community/) was created to help developers find collaborative working spaces around the world. If you're hoping to grind down on some coding projects or looking for help with some development questions then feel free to stop by for an hour or two. Developers of any experience/coding languages are welcome!
+The [Peer Lab Community](https://peerlab.community/) was created to help developers find collaborative working spaces around the world. If you're hoping to grind down on some coding projects or looking for help with some development questions then feel free to stop by for an hour or two. Developers of any experience/coding languages are welcome!
 
 ## Meetups
-Time: ** Every Thursday, 4-6pm ** (unless stated here otherwise)
+Time: **Every Thursday, 4-6pm** (unless stated here otherwise)
 
-Location: ** Copa Vida, 11055 Roselle St, San Diego, CA 92121 **
+Location: **Copa Vida, 11055 Roselle St, San Diego, CA 92121**
 
 ## Organizer
 
@@ -13,7 +13,7 @@ My name is **Derek Vallar**. I'm a "recent" computer engineering grad pursuing m
 
 If you have any questions:
 
-- Message me: **derekvallar@gmail.com**
+- Message me: derekvallar@gmail.com
 - Create an issue in this repository
 
 ## Code of Conduct
